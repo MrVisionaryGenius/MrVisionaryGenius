@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm [Mohammed Saad] 👋
 
-<!--
-**MrVisionaryGenius/MrVisionaryGenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a machine learning developer and a freelance web developer. I have a diploma in computer engineering and I'm currently pursuing my degree in computer science with a focus on AI and machine learning.
 
-Here are some ideas to get you started:
+## 🚀 My Skills and Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I have experience in developing and deploying machine learning models using Python, TensorFlow, Keras, PyTorch, Scikit-learn, and other frameworks and libraries.
+- I have worked on various machine learning projects, such as image classification, object detection, natural language processing, sentiment analysis, recommender systems, and more.
+- I have also created web applications using HTML, CSS, JavaScript, Bootstrap, Node.js, Express, MongoDB, and other technologies.
+- You can check out some of my projects on my [GitHub](https://github.com/your-username) or on my [portfolio website](https://github.com/your-username).
+
+## 📚 My Education and Certifications
+
+- I have a diploma in computer engineering from [M.H.Saboo Siddik Polytechnic](https://your-college.com), where I learned the fundamentals of programming, data structures, algorithms, databases, operating systems, networking, and more.
+- I'm currently pursuing my degree in computer science with a specialization in AI and machine learning from [Mumbai University](https://your-university.com), where I'm taking courses on artificial intelligence, machine learning, deep learning, computer vision, natural language processing, data mining, and more.
+- I have also completed several online courses and certifications on machine learning and web development from platforms like Coursera, Udemy,and others. You can find them on my [LinkedIn](https://www.linkedin.com/in/your-username) profile.
+
+## 📫 How to Reach Me
+
+- You can email me at [your-email](mailto:your-email)
+- You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-username)
+- You can follow me on [Twitter](https://twitter.com/your-username)
+
+## 😄 Fun Facts About Me
+
+- I love reading books, especially sci-fi and fantasy genres.
+- I enjoy playing video games, chess, and sudoku.
+- I'm interested in learning new languages and cultures.
