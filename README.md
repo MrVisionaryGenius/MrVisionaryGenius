@@ -1,4 +1,4 @@
-# Hi, I'm [Mohammed Saad] 👋
+# Hi, I'm Mohammed Saad 👋
 
 I'm a machine learning developer and a freelance web developer. I have a diploma in computer engineering and I'm currently pursuing my degree in computer science with a focus on AI and machine learning.
 
