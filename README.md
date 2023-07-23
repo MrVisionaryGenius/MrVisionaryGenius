@@ -11,8 +11,8 @@ I'm a machine learning developer and a freelance web developer. I have a diploma
 
 ## 📚 My Education and Certifications
 
-- I have a diploma in computer engineering from [M.H.Saboo Siddik Polytechnic](https://your-college.com), where I learned the fundamentals of programming, data structures, algorithms, databases, operating systems, networking, and more.
-- I'm currently pursuing my degree in computer science with a specialization in AI and machine learning from [Mumbai University](https://your-university.com), where I'm taking courses on artificial intelligence, machine learning, deep learning, computer vision, natural language processing, data mining, and more.
+- I have a diploma in computer engineering from [M.H.Saboo Siddik Polytechnic](https://www.mhssce.ac.in/), where I learned the fundamentals of programming, data structures, algorithms, databases, operating systems, networking, and more.
+- I'm currently pursuing my degree in computer science with a specialization in AI and machine learning from [Mumbai University](https://mu.ac.in/), where I'm taking courses on artificial intelligence, machine learning, deep learning, computer vision, natural language processing, data mining, and more.
 - I have also completed several online courses and certifications on machine learning and web development from platforms like Coursera, Udemy,and others. You can find them on my [LinkedIn](https://www.linkedin.com/in/your-username) profile.
 
 ## 📫 How to Reach Me
@@ -23,6 +23,6 @@ I'm a machine learning developer and a freelance web developer. I have a diploma
 
 ## 😄 Fun Facts About Me
 
-- I love reading books, especially sci-fi and fantasy genres.
-- I enjoy playing video games, chess, and sudoku.
+- I love reading books and comics, especially sci-fi and fantasy genres.
+- I enjoy playing video games, chess, and Football.
 - I'm interested in learning new languages and cultures.
