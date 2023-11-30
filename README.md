@@ -7,7 +7,7 @@ I'm a machine learning developer and a freelance web developer. I have a diploma
 - I have experience in developing and deploying machine learning models using Python, TensorFlow, Keras, PyTorch, Scikit-learn, and other frameworks and libraries.
 - I have worked on various machine learning projects, such as image classification, predictions, natural language processing, sentiment analysis, recommender systems, and more.
 - I have also created web applications using HTML, CSS, Python, Flask, AWS, SQL, MongoDB, and other technologies.
-- You can check out some of my projects on my [GitHub](https://github.com/your-username) or on my [portfolio website](https://github.com/your-username).
+- You can check out some of my projects on my [GitHub](https://github.com/your-username) or on my [portfolio website](https://mohammedsaad.carrd.co/).
 
 ## 📚 My Education and Certifications
 
@@ -24,5 +24,5 @@ I'm a machine learning developer and a freelance web developer. I have a diploma
 ## 😄 Fun Facts About Me
 
 - I love reading books and comics, especially sci-fi and fantasy genres.
-- I enjoy playing video games, chess, and Football.
+- I enjoy playing video games, and Football.
 - I'm interested in learning new languages and cultures.
