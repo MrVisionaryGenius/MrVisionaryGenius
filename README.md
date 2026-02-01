@@ -3,8 +3,8 @@ I build, deploy, and iterate real-world software systems, **especially AI-powere
 As a **Forward Deployed Engineer,** I work at the intersection of business problems, engineering, and deployment. My role is not just to write code or train models, but to translate unclear requirements into working systems that run in production and deliver measurable outcomes.
 
 **I work end-to-end across the stack:**
-• Understanding business problems and constraints
-• Designing AI-driven solutions where they actually make sense
+-Understanding business problems and constraints
+-Designing AI-driven solutions where they actually make sense
 • Building backend APIs and data pipelines• Creating frontends that users can trust and adopt
 • Deploying, securing, and operating systems on cloud platforms
 • Iterating quickly based on real user feedback
