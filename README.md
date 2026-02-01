@@ -9,7 +9,7 @@ As a **Forward Deployed Engineer,** I work at the intersection of business probl
 • Deploying, securing, and operating systems on cloud platforms
 • Iterating quickly based on real user feedback
 
-My background spans AI/ML, backend development, frontend engineering, and cloud deployments. I’ve spent a lot of time turning prototypes into production-ready solutions — dealing with latency, cost, security, scalability, and usability, not just **“what works in a demo.”**
+My background spans AI/ML, backend development, frontend engineering, and cloud deployments. I’ve spent a lot of time turning prototypes into production-ready solutions, dealing with latency, cost, security, scalability, and usability, not just **“what works in a demo.”**
 
 **I’m especially interested in how technology supports business strategy:**
 Why a simpler model can outperform a complex one. 
